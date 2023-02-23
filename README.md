@@ -6,6 +6,8 @@ Este repositório contém os códigos criados para coletar dados utilizados no e
 
 Para auxiliar a redação do texto jornalístico, foram coletadas estatísticas de acessos a músicas e vídeos do artista no Spotify e no YouTube nos perfis em que ele se identifica como Whindersson Nunes e pelo pseudônimo Lil Whind.
 
+Os dados foram coletados no dia 22 de fevereiro de 2023.
+
 ## Coleta
 
 ### YouTube
