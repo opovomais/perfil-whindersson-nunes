@@ -2,7 +2,7 @@
 
 A [Série Perfis, do O POVO+](https://mais.opovo.com.br/reportagens-especiais/serie-perfis/), explora personagens famosos e anônimos para destacar histórias de vida.
 
-Este repositório contém os códigos criados para coletar dados utilizados no episódio sobre o comediante, youtuber, cantor, compositor e ator Whindersson Nunes.
+Este repositório contém os códigos criados para coletar dados utilizados no episódio sobre o comediante, youtuber, cantor, compositor e ator [Whindersson Nunes](https://mais.opovo.com.br/reportagens-especiais/serie-perfis/2023/03/12/whindersson-nunes-o-guerreiro-nordestino-da-arte-de-fazer-sorrir.html).
 
 Para auxiliar a redação do texto jornalístico, foram coletadas estatísticas de acessos a músicas e vídeos do artista no Spotify e no YouTube nos perfis em que ele se identifica como Whindersson Nunes e pelo pseudônimo Lil Whind.
 
